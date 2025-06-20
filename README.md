@@ -1,33 +1,77 @@
-<h2 align="left">Hi 👋! My name is QuØi(¿!)™</h2>
+<div align="center">
+  <img src="https://i.postimg.cc/wjzmh8wf/laughter-1.jpg" width="1000" alt="banner"/>
+</div>
+
+###
+
+<h1 align="left">Hi there 👋 I'm Qu0i</h1>
+
+<p>
+  Self-taught dev from ₦Ø₩ⱧɆⱤɆ<br>
+  I build command-line tools, poke around with Python, and escape into Linux terminals.<br>
+  Currently learning C++ and planning my digital exile.
+</p>
+
+---
+
+<h2 align="left">🧠 Tech stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
+
+### 🚀 Projects
+
+- `quick-loader` — wrapper for `yt-dlp` with a terminal UI *(YouTube/video downloader)*
+- `cipher-tools` — encryption/decryption CLI utilities 
+- ...and more on the way
+
+---
+
+<h2 align="left">📬 Contact</h2>
+
+<p>
+  If you found my projects useful, feel free to star or fork.
+  I’m always open to suggestions and ideas!
+</p>
 
 <div align="left">
   <a href="https://discord.com/users/643056955086209057" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:quoiteam.com@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/Qu0i" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
 </div>
+
+###
+
+- _It's kinda weird here btw → [qu0i.me](https://qu0i.github.io/qu0i.me)_
+
+---
+
+<h2 align="left">🧮 Useless stuff, but still cool</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qu0i&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Qu0i&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu0i&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" height="150" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Qu0i&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Qu0i&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu0i&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
