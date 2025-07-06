@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+```
 <h2 align="left">🧠 Tech stack</h2>
 
 <div align="left">
@@ -27,7 +27,7 @@
 </div>
 
 ###
-
+```
 ---
 
 ### 🚀 Projects
