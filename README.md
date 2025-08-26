@@ -1,33 +1,49 @@
 <div align="center">
-  <img src="https://i.postimg.cc/6QSp4Tj7/qu0i-banner.jpg" width="1000" alt="banner"/>
+  <img height="350" src="https://i.postimg.cc/ZYV4WVf9/qu0i-banner.jpg"  />
 </div>
 
 ###
 
-<h1 align="left">Hi there 👋 I'm Qu0i</h1>
+<div align="left">
+</div>
 
-<p>
-  Self-taught dev from ₦Ø₩ⱧɆⱤɆ<br>
-  I build command-line tools, poke around with Python, and escape into Linux terminals.<br>
-  Currently learning C++ and planning my digital exile.
-</p>
+# Hi 👋 I’m Qu0i.
 
----
 
-### 🚀 Projects
+> Self-taught developer and InfoSec student. I enjoy Linux, living in terminals, and building small utilities that make things simpler.
+>
+> Currently learning C (with some first steps in C++).
+> 
+> Working on Qipher — a CLI tool for encrypting/decrypting text with multiple classical ciphers.
 
-- `quick-loader` — wrapper for `yt-dlp` with a terminal UI *(YouTube/video downloader)*
-- `cipher-tools` — encryption/decryption CLI utilities 
-- ...and more on the way
+# 🛠 Technologies
+###
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
 
----
+###
 
-<h2 align="left">📬 Contact</h2>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+</div>
 
-<p>
-  If you found my projects useful, feel free to star or fork.
-  I’m always open to suggestions and ideas!
-</p>
+###
+
+# 📡 Contact
+###
+
+> **Always open to ideas and collaboration.**
 
 <div align="left">
   <a href="https://discord.com/users/643056955086209057" target="_blank">
@@ -36,24 +52,7 @@
   <a href="mailto:quoiteam.com@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://tryhackme.com/p/Qu0i" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  </a>
 </div>
 
 ###
-
-- _It's kinda weird here btw → [qu0i.me](https://qu0i.github.io/qu0i.me)_
-
----
-
-<h2 align="left">🧮 Useless stuff, but still cool</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Qu0i&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qu0i&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+🖥️ Explore my digital playground → [qu0i.me](https://qu0i.github.io/qu0i.me)
