@@ -59,4 +59,3 @@
 </div>
 
 ###
-🖥️ Explore my digital playground → [qu0i.me](https://qu0i.github.io/qu0i.me)
