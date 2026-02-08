@@ -9,34 +9,40 @@
 
 # Hi 👋 I’m Qu0i.
 
+> Developer and Information Security student.  
+> Interested in low-level programming, terminal-based tools, and understanding how systems work under the hood.
+>
+> Currently focused on **C**, with early exploration of **Python** and security-related topics.
 
-> Self-taught developer and InfoSec student. I enjoy Linux, living in terminals, and building small utilities that make things simpler.
->
-> Currently learning C (with some first steps in C++).
->
+## Focus Areas
+
+- Low-level programming (C, memory, data structures)
+- CLI tools and small utilities
+- Fundamentals of Information Security
+- Operating systems concepts (in progress)
 
 # 🛠 Technologies
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
 </div>
 
@@ -47,7 +53,7 @@
 # 📡 Contact
 ###
 
-> **Always open to ideas and collaboration.**
+> Open to collaboration and learning opportunities.
 
 <div align="left">
   <a href="https://discord.com/users/643056955086209057" target="_blank">
@@ -60,4 +66,4 @@
 
 ###
 
-🖥 Explore my digital playground → [qu0i.github.io](https://qu0i.github.io)
+🖥 Personal website & projects → **https://qu0i.github.io**
