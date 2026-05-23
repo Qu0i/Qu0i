@@ -7,63 +7,56 @@
 <div align="left">
 </div>
 
-# Hi 👋 I’m Qu0i.
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eye.png" alt="Eye" width="25" height="25" /> I’m Qu0i.
 
-> Developer and Information Security student.  
-> Interested in low-level programming, terminal-based tools, and understanding how systems work under the hood.
->
-> Currently focused on **C**, with early exploration of **Python** and security-related topics.
+> Interested in systems, infrastructure, terminal-first software and learning how things work under the hood.
 
-## Focus Areas
-
-- Low-level programming (C, memory, data structures)
-- CLI tools and small utilities
-- Fundamentals of Information Security
-- Operating systems concepts (in progress)
-
-# 🛠 Technologies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
 </div>
 
-###
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tools & Environment
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github logo"  />
   <img width="12" />
 </div>
 
 ###
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" /> Currently Exploring
+
+- Docker
+- networking fundamentals
+- infrastructure & automation
+
 ###
 
-# 📡 Contact
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" /> Contact
 ###
 
 > Open to collaboration and learning opportunities.
 
 <div align="left">
-  <a href="https://discord.com/users/643056955086209057" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="mailto:qu0i@proton.me" target="_blank">
+    <img src="https://cdn.simpleicons.org/maildotru/white" height="40" alt="Email"/>
   </a>
-  <a href="mailto:quoiteam.com@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
+  <a href="https://discord.com/users/643056955086209057" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/>
   </a>
 </div>
 
 ###
 
-🖥 Personal website & projects → **https://qu0i.github.io**
+> 📕 Website → https://qu0i.github.io
