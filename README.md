@@ -1,62 +1,46 @@
-<div align="center">
-  <img height="350" src="https://i.postimg.cc/ZYV4WVf9/qu0i-banner.jpg"  />
-</div>
+<img align="right" width="300" src="https://i.postimg.cc/ZRm5MDKL/custom-ava(8).png"/>
 
-###
+```console
+qu0i@github:~ $ cat ABOUT.md
 
-<div align="left">
-</div>
+Self-taught, building to learn. No professional experience
+yet — just projects, curiosity, and a lot of reading docs.
 
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eye.png" alt="Eye" width="25" height="25" /> I’m Qu0i.
+Currently: Python daily, C to see what's underneath.
+```
 
-> Interested in systems, infrastructure, terminal-first software and learning how things work under the hood.
+```console
+qu0i@github:~ $ cat .languages
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-</div>
+Python
+C
+```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tools & Environment
+<br clear="right"/>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="Neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github logo"  />
-  <img width="12" />
-</div>
+```console
+qu0i@github:~ $ tree projects/ -L 1
 
-###
+projects
+├── PyQuill/  - CLI text encryption tool — supports Caesar,
+│               substitution ciphers, more planned
+└── Relay/    - Discord bot for posting configurable embeds —
+                content set via form, fully command-driven
+```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" /> Currently Exploring
+```console
+qu0i@github:~ $ cat TODO.md
 
-- Docker
-- networking fundamentals
-- infrastructure & automation
+- Python: leveling up, aiming for cleaner and more useful projects
+- C: want to build something real with it, not just exercises
+- Android: maybe someday - no promises
+```
 
-###
+```console
+qu0i@github:~ $ cat .contact
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" /> Contact
-###
+EMAIL=qu0i@proton.me
+DISCORD=@_qu0i
+WEBSITE=qu0i.github.io
+```
 
-> Open to collaboration and learning opportunities.
-
-<div align="left">
-  <a href="mailto:qu0i@proton.me" target="_blank">
-    <img src="https://cdn.simpleicons.org/maildotru/white" height="40" alt="Email"/>
-  </a>
-
-  <a href="https://discord.com/users/643056955086209057" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/>
-  </a>
-</div>
-
-###
-
-> 📕 Website → https://qu0i.github.io
